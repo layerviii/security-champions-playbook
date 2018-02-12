@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "test model",
+    "owner": "Graeme",
+    "description": "a webapp"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Paco"
+  }
+}
